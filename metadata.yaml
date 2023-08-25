@@ -1,0 +1,18 @@
+composer:
+  last: Novotný
+  first: Franz Nikolaus
+title: Te Deum
+genre: hymn
+scoring: S, A, T, B (coro), 2 clno (C), timp (C–G), 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Ed
+    shelfmark: C 12
+    rism: 600038252
+    url: https://dommusikarchiv.martinus.at/site/werkverzeichnis/gallery/64.html
+    license: public domain
+    principal: true
+imslp:
+parts:
+  ottoni: Clarino I, II in C\\Timpani in C–G
