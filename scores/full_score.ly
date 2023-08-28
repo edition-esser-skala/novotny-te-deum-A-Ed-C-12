@@ -6,7 +6,7 @@
 \book {
   \bookpart {
     \section "Te Deum"
-    % \addTocEntry
+    \addTocEntry
     \paper { indent = 3\cm }
     \score { %\articulate
       <<
@@ -68,7 +68,7 @@
         \new FiguredBass { \TeDeumBassFigures }
       >>
       \layout { }
-      \midi { \tempo 4 = 90 }
+      \midi { \tempo 4 = 110 } % 55 – 110
     }
   }
 }
